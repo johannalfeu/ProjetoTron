@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6ae8ee1c9fa409468451928efb73efa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _firePoint: {instanceID: 0}
+  - Rastro: {fileID: 7232314329156465319, guid: eb7966c3048415843af4861f858a94fc, type: 3}
+  - rb: {instanceID: 0}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
